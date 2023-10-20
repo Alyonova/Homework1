@@ -17,7 +17,7 @@ public class HOMEWORK2 {
         String string2 = string1.substring(0, 36);
         System.out.println(string2);
         System.out.println(string2.length());
-        String string3 = string2 + "it is perfect";
+        String string3 = string2.replace("This line that i want to cut", "This line that i don't want to cut") + "it is perfect";
         System.out.println(string3);
         System.out.println(string3.length());
 
