@@ -2,7 +2,7 @@ package HW3;
 
 import java.util.Scanner;
 
-public class homework3 {
+public class hw3part1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите предложение:Я тестирую замечательно. Что еще нужно?");
