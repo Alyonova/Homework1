@@ -1,3 +1,5 @@
+package HW;
+
 public class HOMEWORK2 {
     public static void main(String[] args) {
 //        1)
@@ -65,6 +67,7 @@ public class HOMEWORK2 {
         String[] arrayOfString = string.split("a");
         int size = arrayOfString.length;
         System.out.println(size);
+
 
     }}
 
