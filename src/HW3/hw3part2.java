@@ -6,7 +6,6 @@ package HW3;
 //  (необходимо вспомнить правило построения треугольника по трем сторонам).
 //a+b>c
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class hw3part2 {

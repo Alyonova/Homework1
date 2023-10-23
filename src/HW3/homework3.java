@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class homework3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("введите что-то:");
+        System.out.println("Введите предложение:Я тестирую замечательно. Что еще нужно?");
+
 
         String string1 = scanner.next();
         String string2 = scanner.next();
@@ -19,9 +20,8 @@ public class homework3 {
         while (scanner.hasNext()) {
             string4 = scanner.next() + " ";
             System.out.println(string4);
+
         }
 
 
     }}
-
-
